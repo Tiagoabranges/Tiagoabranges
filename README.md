@@ -1,5 +1,5 @@
 ### Ola! Eu sou Tiago Abranges Estudante Full Stack 👋
-- 🌱 Esrou estudando Ciência da computação na trybe no momento
+- 🌱 Estou estudando Ciência da computação na trybe no momento
 <div align="center">
   <a href="https://github.com/Tiagoabranges">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=T-abran&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,4 +27,4 @@
   <a href="https://www.linkedin.com/in/tiagoabranges/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake gif](https://github.com/Tiagoabranges/Abranges/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Tiagoabranges/Tiagoabranges/blob/output/github-contribution-grid-snake.svg)
