@@ -1,7 +1,7 @@
 ## Bom dia, boa tarde e boa noite 👋
 
 <div align="justify">
-  Sou o Tiago, Estudante de desenvolvimento de software na Trybe. Apaixonado pelo desenvolvimento de software, me capacito cada dia mais a fim de transformar a vida das pessoas por meio da tecnologia.
+  Sou o Tiago Abranges, Estudante de desenvolvimento de software na Trybe. Apaixonado pelo desenvolvimento de software, me capacito cada dia mais a fim de transformar a vida das pessoas por meio da tecnologia.
  </div>
 
 ## Algumas coisas que são indispensáveis na minha vida 🤔
