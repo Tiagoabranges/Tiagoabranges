@@ -1,4 +1,4 @@
-## Bom dia, boa tarde e boa noite 👋
+## Olá a todos👋
 
 <div align="justify">
   Sou o Tiago Abranges, Estudante de desenvolvimento de software na Trybe. Apaixonado pelo desenvolvimento de software, me capacito cada dia mais a fim de transformar a vida das pessoas por meio da tecnologia.
@@ -14,10 +14,13 @@
   <li>No início da minha trajetória em back, compreendi sobre o <strong>NodeJS</strong> e seu famoso framework, o <strong>Express</strong>. Na parte de <strong>arquitetura</strong> tenho noção dos princípios <strong>MVC, SOLID e DDD</strong>, mas estou em busca de entender mais estes conceitos e absorver novos.</li>
   <li>🖥️ Quando se trata de <strong>Front-end</strong>, utilizo o <strong>React</strong>, gosto de pensar em como fazer a <strong>lógica</strong>, <strong>reutilizar componentes</strong> e manter o <strong>código organizado</strong>. Pesquiso e aplico elementos novos dentro desta biblioteca, tal como <strong>Hooks</strong>.</li>
 </ul>
-<div align="center">
-  <a href="https://github.com/Tiagoabranges">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiagoabranges&show_icons=true&&locale=pt-br&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagoabranges&layout=compact&&locale=pt-br&langs_count=7&theme=dracula"/>
+  
+## Minhas Redes Sociais
+ 
+<div> 
+  <a href="https://instagram.com/tiago_abranges" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href = "tiagoabranges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/tiagoabranges/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
   ## Tecnologias e Ferramentas
@@ -36,12 +39,13 @@
     <img align="center" alt="Tiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  </div>
 
-  ## Minhas Redes Sociais
- 
-<div> 
-  <a href="https://instagram.com/tiago_abranges" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "tiagoabranges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tiagoabranges/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ ## Estatística Github
+
+<div align="center">
+  <a href="https://github.com/Tiagoabranges">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiagoabranges&show_icons=true&&locale=pt-br&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagoabranges&layout=compact&&locale=pt-br&langs_count=7&theme=dracula"/>
 </div>
+ 
 
 ![snake gif](https://github.com/Tiagoabranges/Tiagoabranges/blob/output/github-contribution-grid-snake.svg)
