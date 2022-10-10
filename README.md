@@ -47,5 +47,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagoabranges&layout=compact&&locale=pt-br&langs_count=7&theme=dracula"/>
 </div>
  
-
-![snake gif](https://github.com/Tiagoabranges/Tiagoabranges/blob/output/github-contribution-grid-snake.svg)
