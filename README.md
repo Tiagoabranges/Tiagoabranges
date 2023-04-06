@@ -7,7 +7,7 @@
 ## Algumas coisas que são indispensáveis na minha vida 🤔
 
 <ul align="justify">
-  <li>⚽ Sou fã de <strong>jogar futebol</strong>, volei e também de uma bela partida de truco</li>
+  <li>⚽ Sou fã de <strong>jogar futebol</strong>, volêi e também de uma bela partida de truco</li>
   <li>🏃🏻 Uma coisa que eu adoro fazer, principalmente nos momentos que estou com tempo livre é <strong>assistir filmes</strong>. Ainda mais se for filmes da marvel, e se caso quiser comentar ou fazer teorias kk <strong>pode me chamar.</strong></li>
   <li>🎮 Adoro <strong>jogos</strong>, se falar qual eu mais gosto eu não te direi algum específico, mas o jogos de <strong>futebol (Fifinha)</strong> e <strong>estrátegia (tabuleiro)</strong> e tambem jogos com varias pessoas</li>
   <li>👨🏻‍💻 Atualmente estou focado em aprender mais a respeito de Orientação a objetos e também sobre <strong>C#</strong>.</li>
