@@ -9,7 +9,7 @@
 <ul align="justify">
   <li>⚽ Sou fã de <strong>jogar futebol</strong>, volêi e também de uma bela partida de truco</li>
   <li>🏃🏻 Uma coisa que eu adoro fazer, principalmente nos momentos que estou com tempo livre é <strong>assistir filmes</strong>. Ainda mais se for filmes da marvel, e se caso quiser comentar ou fazer teorias kk <strong>pode me chamar.</strong></li>
-  <li>🎮 Adoro <strong>jogos</strong>, se falar qual eu mais gosto eu não te direi algum específico, mas o jogos de <strong>futebol (Fifinha)</strong> e <strong>estrátegia (tabuleiro)</strong> e tambem jogos com varias pessoas</li>
+  <li>🎮 Adoro <strong>jogos</strong>, se falar qual eu mais gosto eu não te direi algum específico, mas um <strong>futebol (Fifinha)</strong> e <strong>estrátegia (tabuleiro)</strong> e tambem jogos com varias pessoas</li>
   <li>👨🏻‍💻 Atualmente estou focado em aprender mais a respeito de Nestjs, Prisma e Postgres.</li>
   <li>No início da minha trajetória em back, compreendi sobre o <strong>NodeJS</strong> e seu famoso framework, o <strong>Express</strong>, e hoje dando mais um passo pra frente estou aprendendo o Nestjs. Na parte de <strong>arquitetura</strong> tenho noção dos princípios <strong>MVC, SOLID e DDD</strong>, mas estou em busca de entender mais estes conceitos e absorver novos.</li>
   <li>🖥️ Quando se trata de <strong>Front-end</strong>, utilizo o <strong>React</strong>, gosto de pensar em como fazer a <strong>lógica</strong>, <strong>reutilizar componentes</strong> e manter o <strong>código organizado</strong>. Pesquiso e aplico elementos novos dentro desta biblioteca, tal como <strong>Hooks</strong>.</li>
