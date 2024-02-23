@@ -47,7 +47,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagoabranges&layout=compact&&locale=pt-br&langs_count=7&theme=dracula"/>
 </div>
 
-## Cobrinha 🐍
-
-![Snake animation](snake.md)
-
